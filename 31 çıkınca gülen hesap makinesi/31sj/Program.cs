@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _31sj
 {
@@ -6,7 +6,7 @@ namespace _31sj
     {
         static void Main(string[] args)
         {
-           bas:
+        bas:
 
             int toplam = 0, say1 = 0, say2 = 0;
             Console.BackgroundColor = ConsoleColor.Red;
@@ -106,8 +106,8 @@ namespace _31sj
             switch (secim1)
             {
                 case 1:
-                    toplam = say1 + say2 ;
-                        break;
+                    toplam = say1 + say2;
+                    break;
 
 
                 case 2:
@@ -118,7 +118,7 @@ namespace _31sj
                     toplam = say1 * say2;
                     break;
 
-                 case 4:
+                case 4:
                     toplam = say1 / say2;
                     break;
 
@@ -127,7 +127,7 @@ namespace _31sj
             if (toplam == 31)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("\a BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("\a BABA 31 ÇIKTI YA WPQCVSADDSFDĞKDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
@@ -137,14 +137,14 @@ namespace _31sj
                 Console.ResetColor();
                 Console.Clear();
 
-               
+
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSEREFALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA W213213PQEĞ34324KDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
@@ -154,22 +154,42 @@ namespace _31sj
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSWQEQWEQWEWQEWQDSAALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALSADASDSAD2342345D");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEQ23E214P923859*813123ĞKDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSA123-21*302-3£>]#$}#]|£>}#LD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDEWQESALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKD£>$£#$#½>£#$£>$£#½#$½SALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQE21312423RWERĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEWEFSDFFGDFGĞKDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
@@ -179,127 +199,12 @@ namespace _31sj
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSFDSFSDFSDFWEQRWEFSDDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.Write("xD ");
-                System.Threading.Thread.Sleep(300);
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
-                System.Threading.Thread.Sleep(200);
-                Console.ResetColor();
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞQWEIPJWQKLEJKLSADJSALKDJSADSAD#£½#$½£#$#£#$£>3214239ASLDKASLŞDJSADKDSALD");
                 System.Threading.Thread.Sleep(200);
                 Console.ResetColor();
                 Console.Write("xD ");
@@ -412,7 +317,102 @@ namespace _31sj
                 Console.Write("xD ");
                 System.Threading.Thread.Sleep(300);
                 Console.Write("xD ");
-            
+                System.Threading.Thread.Sleep(300);
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
+                System.Threading.Thread.Sleep(200);
+                Console.ResetColor();
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+                System.Threading.Thread.Sleep(300);
+                Console.Write("xD ");
+
                 System.Threading.Thread.Sleep(300);
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("BABA 31 ÇIKTI YA WPQEĞKDSALD");
@@ -799,6 +799,6 @@ namespace _31sj
             else
             { Console.WriteLine("Toplam sonucunuz : " + toplam); }
             goto bas;
-            }
         }
     }
+}
