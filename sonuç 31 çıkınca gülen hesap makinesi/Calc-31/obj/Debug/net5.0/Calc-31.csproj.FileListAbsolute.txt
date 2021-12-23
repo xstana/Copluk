@@ -1,0 +1,16 @@
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.exe
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.deps.json
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.runtimeconfig.json
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.runtimeconfig.dev.json
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.dll
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\ref\Calc-31.dll
+C:\Users\orkun\source\repos\Calc-31\Calc-31\bin\Debug\net5.0\Calc-31.pdb
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.csproj.AssemblyReference.cache
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.AssemblyInfoInputs.cache
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.AssemblyInfo.cs
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.csproj.CoreCompileInputs.cache
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.dll
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\ref\Calc-31.dll
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.pdb
+C:\Users\orkun\source\repos\Calc-31\Calc-31\obj\Debug\net5.0\Calc-31.genruntimeconfig.cache
