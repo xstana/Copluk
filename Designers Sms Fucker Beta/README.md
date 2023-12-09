@@ -4,7 +4,8 @@
 
 <div align="center" width="50">
 
-<img src="https://assets-v2.lottiefiles.com/a/32c480f4-1151-11ee-96a3-472f89471f15/ItEDif4YPb.gif" alt="!" width="300"/>
+<img src="https://assets-v2.lottiefiles.com/a/32c480f4-1151-11ee-96a3-472f89471f15/ItEDif4YPb.gif" alt="!" width="300"/> <br>
+
 
 </div>
 
